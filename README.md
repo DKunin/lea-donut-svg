@@ -9,3 +9,5 @@ So - Lea showed a sweet way to implement pie chart via SVG. I needed a dynamic p
 For now it's work in progress, probably would stay that way, but still) 
 
 Would only work with webpack - since it loads external css - in time - gonna write all the styles inline, probably
+
+![Donuts](https://raw.githubusercontent.com/DKunin/lea-donut-svg/master/image.png "Donuts")
