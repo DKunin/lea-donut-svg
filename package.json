@@ -1,0 +1,17 @@
+{
+  "name": "lea-donut",
+  "version": "0.0.1",
+  "description": "Simple donut made with svg, original idea: Lea Verou",
+  "main": "src/Donut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pie",
+    "svg",
+    "chart",
+    "react"
+  ],
+  "author": "DKunin",
+  "license": "MIT"
+}

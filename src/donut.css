@@ -1,0 +1,24 @@
+svg {
+  transform: rotate(-90deg);
+  background: #c2c2c2;
+  border-radius: 50%;
+}
+
+circle.outer-circle {
+  fill: none;
+  stroke-width: 50;
+  animation: foo 5s infinite linear;
+}
+
+.donut-text {
+  color: black;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 2;
+  font-family: Roboto;
+  line-height: 0;
+  width: 100%;
+  text-align: center;
+}
